@@ -19,4 +19,4 @@ All instructions can be found at [Install](./INSTALL.md).
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.txt)
