@@ -2,7 +2,7 @@
 
 > Miles Morales Neon Snowy Night Spider Man [wallshub.com](https://wallshub.com/65-miles-morales-neon-snowy-night-spider-man.html).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## Install
 
