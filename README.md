@@ -10,7 +10,7 @@ Install theme through the [Google Chrome Store](https://chromewebstore.google.co
 
 ## Live Wallpaper
 
-All instructions can be found at [Install](./INSTALL).
+All instructions can be found at [Install](./INSTALL.md).
 
 ## Community
 
