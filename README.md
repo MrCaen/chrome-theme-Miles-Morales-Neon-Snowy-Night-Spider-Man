@@ -16,7 +16,7 @@ All instructions can be found at [Install](./INSTALL.md).
 
 - [Youtube](https://youtube.com/@wallsflow) - The channel where you can view our live wallpapers.
 - [Pinterest](https:/pinterest.com/walsflow)
-- [wallsflow.com](https:/wallsflow.com/) - Download Live Wallpapers
+- [wallsflow.com] - Download Live Wallpapers
 
 ## License
 
