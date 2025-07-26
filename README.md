@@ -14,8 +14,9 @@ All instructions can be found at [Install](./INSTALL.md).
 
 ## Community
 
-- [Youtube](https://youtube.com/wallshub) - The channel where you can view our live wallpapers.
-- [Pinterest](https:/pinterest.com/wallshubcom)
+- [Youtube](https://youtube.com/wallsflow) - The channel where you can view our live wallpapers.
+- [Pinterest](https:/pinterest.com/walsflow)
+- [Live Wallpapers](https:/wallsflow.com/)
 
 ## License
 
